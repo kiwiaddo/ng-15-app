@@ -9,11 +9,13 @@ import { MyWidgetComponent } from './my-widget/my-widget.component';
 import { reducer } from './my-widget/store/my-widget.reducer';
 import { MyWidgetEffects } from './my-widget/store/my-widget.effects';
 import { StoreDevtoolsModule } from '@ngrx/store-devtools';
+import { FooBarComponent } from './foo-bar/foo-bar.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    MyWidgetComponent
+    MyWidgetComponent,
+    FooBarComponent
   ],
   imports: [
     BrowserModule,

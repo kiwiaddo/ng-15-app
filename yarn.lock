@@ -1279,6 +1279,15 @@
     lines-and-columns "^2.0.3"
     tslib "^2.3.1"
 
+"@betterer/regexp@^5.4.0":
+  version "5.4.0"
+  resolved "https://registry.yarnpkg.com/@betterer/regexp/-/regexp-5.4.0.tgz#922cb4fe46c59f78e904739aa49ef177f59a0808"
+  integrity sha512-Fu9VkfHf6cZJagSJScof3tArMIkw0GhTG9k2SmXgBD0iaWXOMcw2rFi1p6l+v3BgNALlsQxCMy4DRnwoL3fHhQ==
+  dependencies:
+    "@betterer/betterer" "^5.4.0"
+    "@betterer/errors" "^5.3.0"
+    tslib "^2.3.1"
+
 "@betterer/render@^5.3.4":
   version "5.3.4"
   resolved "https://registry.yarnpkg.com/@betterer/render/-/render-5.3.4.tgz#1e668202b006bb71bca5ee316c114cef85ae4812"

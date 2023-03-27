@@ -32,6 +32,7 @@
     "@angular/compiler-cli": "^15.1.0",
     "@betterer/angular": "^5.4.0",
     "@betterer/cli": "^5.4.0",
+    "@betterer/regexp": "^5.4.0",
     "@ngrx/schematics": "^15.3.0",
     "@types/jasmine": "~4.3.0",
     "jasmine-core": "~4.5.0",
